@@ -3,7 +3,7 @@
         {
             "image" : "images/projects/space-game.png",
             "title": "Cosmic Journey",
-            "bodyText": "Asteroids meets space invaders. A sprite based animated game built with pure Typescript and RxJS as an exercise on developing a functional game engine",
+            "bodyText": "Asteroids meets space invaders. A sprite based animated game built with pure Typescript and RxJS as an exercise on developing a functional game engine.",
             "links": [
                 {
                     "text": "GitHub",
@@ -51,6 +51,23 @@
                 "Java",
                 "Swing",
                 "Multithreading"
+            ]
+        },
+        {
+            "image" : "images/projects/ashya.png",
+            "title": "Tariffs Analytics (Capstone)",
+            "bodyText": "Web and mobile application built with Angular 8 / Ionic and Ruby on Rails. Assists energy auditors with optimizing electricity usage.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/MacLinh"
+                }
+            ],
+            "tags" : [
+                "Angular",
+                "Ruby",
+                "Ruby on Rails",
+                "Ionic"
             ]
         }
         
