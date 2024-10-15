@@ -17,10 +17,13 @@ const styles = {
     fontWeight: 500,
   },
   introImageContainer: {
-    margin: 10,
+    margin: 0,
     justifyContent: 'center',
     alignItems: 'center',
     display: 'flex',
+  },
+  rowContainer: {
+    margin: 10,
   },
 };
 
@@ -51,7 +54,7 @@ function About(props) {
           {data
             ? (
               <Fade>
-                <Row>
+                <Row style={styles.rowContainer}>
                   <Col style={styles.introTextContainer}>
                     {parseIntro(data.about)}
                   </Col>
