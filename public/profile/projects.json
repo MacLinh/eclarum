@@ -26,7 +26,7 @@
             "links": [
                 {
                     "text": "GitHub",
-                    "href": ""
+                    "href": "https://github.com/MacLinh"
                 }
             ],
             "tags" : [
@@ -35,6 +35,22 @@
                 "ASP.net",
                 "SQL",
                 "Dapper"
+            ]
+        },
+        {
+            "image" : "images/projects/gravity.png",
+            "title": "Gravitational Fields Simulator",
+            "bodyText": "Java Swing application enabling users to specify planets of custom mass and locations. Animation to model the orbits and motion of comets in response to planet's gravitational pull.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/MacLinh/High-School-Projects"
+                }
+            ],
+            "tags" : [
+                "Java",
+                "Swing",
+                "Multithreading"
             ]
         }
         
