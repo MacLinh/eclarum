@@ -1,33 +1,25 @@
 {
     "experiences": [
         {
-            "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
-            "workType": "Full-time",
+            "title": "Software Developer",
+            "subtitle": "JSI Telecom",
+            "workType": "fulltime",
             "workDescription": [
-                "Integrated **2** new product.",
-                "Worked on adding **def** to **bcd**. Improved speed by 50%."
+                "Utilized ASP.net 6 to implement REST api features",
+                "Developed features for an enterprise WPF (C#) application",
+                "Refactored legacy AngularJS javascript web applications to support dynamic forms using Angular 15 and Formly"
             ],
-            "dateText": "06/20XX – Present"
+            "dateText": "Nov 2022 - Aug 2023"
         },
         {
-            "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
-            "workType": "Internship",
+            "title": "Software Developer",
+            "subtitle": "Mitel",
+            "workType": "fulltime",
             "workDescription": [
-                "Worked on abc."
+                "Designed and implemented key features for a real-time meeting application from the ground up, built with Angular, AWS Chime, and RxJS.  Mitel divested this successful application to RingCentral",
+                "Led unit testing initiative that brought code coverage from nil to over  40%"
             ],
-            "dateText": "01/20XX – 05/20XX"
-        },
-        {
-            "title": "App Developer",
-            "subtitle": "ABC Pvt Ltd",
-            "workType": "Freelance",
-            "workDescription": [
-                "Developed the official apps for the startup for both Android and iOS using hybrid framework.",
-                "Done bcd work."
-            ],
-            "dateText": "09/20XX – 01/20YY"
+            "dateText": "Jan 2021 - Oct 2022"
         }
     ]
 }
