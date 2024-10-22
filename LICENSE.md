@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2022 Mayank Agarwal
+Copyright (c) 2022 Mayank Agarwal, 2024 Mac Linh Pham
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
