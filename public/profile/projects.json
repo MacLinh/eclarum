@@ -1,6 +1,28 @@
 {
     "projects" : [
         {
+            "image" : "images/projects/roast-spotify.png",
+            "title": "Roast my Spotify",
+            "bodyText": "Express and React app using Llama 3.1 and Spotify api: Enables users to login to their Spotify account and view ai generated insights on the emotional ranges of their favourite music. Evaluates big 5 personality traits within 90% accuracy of surveyed results.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/MacLinh/roast-my-spotify"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://roast-my-spotify.vercel.app/"
+                }
+            ],
+            "tags" : [
+                "React",
+                "Express",
+                "Artificial Intelligence",
+                "LLM",
+                "Llama 3.1"
+            ]
+        },
+        {
             "image" : "images/projects/space-game.png",
             "title": "Cosmic Journey",
             "bodyText": "Asteroids meets space invaders. A sprite based animated game built with pure Typescript and RxJS as an exercise on developing a functional game engine.",
